@@ -75,6 +75,8 @@
     background: #fff;
     padding: 15px 0;
     z-index: 999;
+    box-shadow:0 -4px 11px 4px #1b181857;
+    -webkit-box-shadow: 0 -4px 11px 4px #1b181857;
   }
   nav{
     display: flex !important;
