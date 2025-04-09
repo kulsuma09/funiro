@@ -75,9 +75,9 @@
     background: #fff;
     padding: 15px 0;
     z-index: 999;
-    box-shadow:0 -4px 11px 4px #1b181857;
-    -webkit-box-shadow: 0 -4px 11px 4px #1b181857;
-  }
+    box-shadow:0 -4px 11px 4px #ccc9c957;
+    -webkit-box-shadow: 0 -4px 11px 4px #ccc9c957;
+}
   nav{
     display: flex !important;
     justify-content: space-around;
@@ -127,7 +127,7 @@
       position: absolute;
       background: #fff;
       width: 200px;
-      top: 145%;
+      top: 204%;
       padding: 20px 0px;
       opacity: 1;
       visibility: hidden;
